@@ -42,13 +42,12 @@ Co roku w polskich szkołach dochodzi do tysięcy wypadków. Dane MEiN publikowa
 ```bash
 pip install -r requirements.txt
 cp .env.example .env
-python scripts/fetch_data.py        # pobiera dane z dane.gov.pl (~ kilka MB)
-python -m safeschool               # ustaw PYTHONPATH=src
+python run.py          # pobiera dane (jeśli brak) i uruchamia aplikację
 ```
 
 W Windows PowerShell:
 ```powershell
-$env:PYTHONPATH="src"; python -m safeschool
+python run.py
 ```
 
 Otwórz: http://localhost:8000
