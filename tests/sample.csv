@@ -1,0 +1,501 @@
+idTerytWojewodztwo,Wojewodztwo,idTerytPowiat,Powiat,idTerytGmina,Gmina,idTypPodmiotu,TypPodmiotu,idRodzajWypadku,RodzajWypadku,idPrzyczynaWypadku,PrzyczynaWypadku,idMiejsceWypadku,MiejsceWypadku,idRodzajZajec,RodzajZajec,LiczbaWypadkow
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,1,Przedszkole,100,inny,14,działania nieumyślne ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,1,Przedszkole,100,inny,18,działania nieumyślne innej osoby,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,9,brak lub niedostateczny nadzór nad uczniem,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,4
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,8
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,7
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,16,Technikum,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201011,Bolesławiec,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,1,Przedszkole,100,inny,14,działania nieumyślne ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201022,Bolesławiec,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201043,Nowogrodziec,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,1,Przedszkole,100,inny,16,działania umyślne innej osoby,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,201,bolesławiecki,201052,Osiecznica,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,3
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,5
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,10,miejsca zgromadzeń publicznych,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,11,szlaki turystyczne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202011,Bielawa,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,1,Przedszkole,100,inny,18,działania nieumyślne innej osoby,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,3,"zły stan techniczny wyposażenia, sprzętów",5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,12
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,12
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,100,inne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,3
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202021,Dzierżoniów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,1,Przedszkole,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,1,Przedszkole,100,inny,17,"pobicie, umyślne uderzenie",1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202033,Pieszyce,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202041,Piława Górna,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202052,Dzierżoniów,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202052,Dzierżoniów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202052,Dzierżoniów,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,12,"ulica, droga",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202052,Dzierżoniów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,8,obiekty sportowe,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,1,Przedszkole,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,7
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202062,Łagiewniki,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202073,Niemcza,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,3
+2,DOLNOŚLĄSKIE,202,dzierżoniowski,202073,Niemcza,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,8,obiekty sportowe,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,16,Technikum,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,16,Technikum,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,93,Branżowa szkoła I stopnia,100,inny,12,nieznajomość lub nieprzestrzeganie przepisów BHP,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,203,głogowski,203011,Głogów,93,Branżowa szkoła I stopnia,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203022,Głogów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203022,Głogów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,203,głogowski,203022,Głogów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203032,Jerzmanowa,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,203,głogowski,203032,Jerzmanowa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,12,nieznajomość lub nieprzestrzeganie przepisów BHP,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,203,głogowski,203042,Kotla,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,1,Przedszkole,100,inny,15,nieuwaga ucznia,100,inne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,1,Przedszkole,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,7
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,3
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,4,boisko,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,100,inna przyczyna,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204013,Góra,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,12,nieznajomość lub nieprzestrzeganie przepisów BHP,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,12,nieznajomość lub nieprzestrzeganie przepisów BHP,5,plac zabaw,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,7
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,204,górowski,204032,Niechlów,4,Gimnazjum,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,14,Liceum ogólnokształcące,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,14,Liceum ogólnokształcące,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,16,Technikum,100,inny,18,działania nieumyślne innej osoby,8,obiekty sportowe,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205011,Jawor,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,1,ciężki,13,działania umyślne ucznia,9,instytucje publiczne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,1,ciężki,17,"pobicie, umyślne uderzenie",100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,11,szlaki turystyczne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,16,Technikum,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205023,Bolków,16,Technikum,100,inny,100,inna przyczyna,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,1,Przedszkole,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,100,inna przyczyna,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205032,Męcinka,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205062,Wądroże Wielkie,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205062,Wądroże Wielkie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,205,jaworski,205062,Wądroże Wielkie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,205,jaworski,205062,Wądroże Wielkie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,206,karkonoski,206021,Kowary,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206052,Janowice Wielkie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,206,karkonoski,206052,Janowice Wielkie,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206052,Janowice Wielkie,3,Szkoła podstawowa,100,inny,100,inna przyczyna,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,56,Dom wczasów dziecięcych,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206072,Mysłakowice,56,Dom wczasów dziecięcych,100,inny,15,nieuwaga ucznia,11,szlaki turystyczne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,206,karkonoski,206092,Stara Kamienica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,13,działania umyślne ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,2
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,9
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,16,Technikum,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,16,Technikum,100,inny,19,uderzenie nieumyślne,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,93,Branżowa szkoła I stopnia,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207011,Kamienna Góra,93,Branżowa szkoła I stopnia,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207022,Kamienna Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207022,Kamienna Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207022,Kamienna Góra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207033,Lubawka,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207033,Lubawka,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207033,Lubawka,4,Gimnazjum,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,207,kamiennogórski,207042,Marciszów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,56,Dom wczasów dziecięcych,100,inny,15,nieuwaga ucznia,100,inne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,56,Dom wczasów dziecięcych,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,3
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,56,Dom wczasów dziecięcych,100,inny,100,inna przyczyna,100,inne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208011,Duszniki-Zdrój,56,Dom wczasów dziecięcych,100,inny,100,inna przyczyna,100,inne,100,inne zajęcia,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,7
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,6,"warsztaty szkolne, pracownia zajęć praktycznych",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",6,"warsztaty szkolne, pracownia zajęć praktycznych",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,4,Gimnazjum,100,inny,13,działania umyślne ucznia,6,"warsztaty szkolne, pracownia zajęć praktycznych",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,4,Gimnazjum,100,inny,15,nieuwaga ucznia,6,"warsztaty szkolne, pracownia zajęć praktycznych",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,4,Gimnazjum,100,inny,17,"pobicie, umyślne uderzenie",1,"sala lekcyjna, pracownia szkolna",3,zajęcia artystyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,4,Gimnazjum,100,inny,17,"pobicie, umyślne uderzenie",1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,17,"pobicie, umyślne uderzenie",1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,17,"pobicie, umyślne uderzenie",2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208021,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,17,"pobicie, umyślne uderzenie",6,"warsztaty szkolne, pracownia zajęć praktycznych",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208031,Kudowa-Zdrój,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208031,Kudowa-Zdrój,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,208,kłodzki,208031,Kudowa-Zdrój,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,3
+2,DOLNOŚLĄSKIE,208,kłodzki,208041,Nowa Ruda,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,208,kłodzki,208051,Polanica-Zdrój,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,9,instytucje publiczne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208051,Polanica-Zdrój,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208051,Polanica-Zdrój,3,Szkoła podstawowa,100,inny,100,inna przyczyna,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208063,Bystrzyca Kłodzka,4,Gimnazjum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208063,Bystrzyca Kłodzka,4,Gimnazjum,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208063,Bystrzyca Kłodzka,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,8,obiekty sportowe,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208072,Kłodzko,54,Młodzieżowy Ośrodek Socjoterapii ze szkołami,100,inny,13,działania umyślne ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208083,Lądek-Zdrój,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208083,Lądek-Zdrój,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208103,Międzylesie,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,5,plac zabaw,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208112,Nowa Ruda,16,Technikum,100,inny,14,działania nieumyślne ucznia,100,inne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208112,Nowa Ruda,16,Technikum,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208112,Nowa Ruda,16,Technikum,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208123,Radków,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208143,Szczytna,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,208,kłodzki,208143,Szczytna,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,208,kłodzki,208143,Szczytna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209011,Chojnów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209032,Krotoszyce,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209042,Kunice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,10,miejsca zgromadzeń publicznych,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209042,Kunice,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209052,Legnickie Pole,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209052,Legnickie Pole,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209073,Prochowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,209,legnicki,209073,Prochowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,209,legnicki,209073,Prochowice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,9
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,16,Technikum,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,16,Technikum,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210011,Lubań,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210021,Świeradów-Zdrój,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,210,lubański,210033,Leśna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",3,zajęcia artystyczne,1
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,5
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,210,lubański,210053,Olszyna,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,3,sala gimnastyczna,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210072,Siekierczyn,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210072,Siekierczyn,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,210,lubański,210072,Siekierczyn,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,210,lubański,210072,Siekierczyn,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,210,lubański,210072,Siekierczyn,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,10
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,7,stołówka,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,7,stołówka,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,100,inna przyczyna,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,3,Szkoła podstawowa,100,inny,100,inna przyczyna,5,plac zabaw,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,8
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,14,Liceum ogólnokształcące,100,inny,100,inna przyczyna,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,211,lubiński,211011,Lubin,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211022,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211022,Lubin,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,211,lubiński,211032,Rudna,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211032,Rudna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,211,lubiński,211032,Rudna,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211032,Rudna,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211032,Rudna,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,1,Przedszkole,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,1,"sala lekcyjna, pracownia szkolna",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,211,lubiński,211043,Ścinawa,4,Gimnazjum,100,inny,19,uderzenie nieumyślne,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212013,Gryfów Śląski,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212033,Lwówek Śląski,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,212,lwówecki,212033,Lwówek Śląski,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212033,Lwówek Śląski,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212033,Lwówek Śląski,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212033,Lwówek Śląski,16,Technikum,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212043,Mirsk,4,Gimnazjum,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212043,Mirsk,4,Gimnazjum,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212043,Mirsk,14,Liceum ogólnokształcące,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212053,Wleń,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212053,Wleń,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,212,lwówecki,212053,Wleń,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212053,Wleń,4,Gimnazjum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,212,lwówecki,212053,Wleń,4,Gimnazjum,100,inny,100,inna przyczyna,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213012,Cieszków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213012,Cieszków,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213012,Cieszków,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213012,Cieszków,3,Szkoła podstawowa,100,inny,100,inna przyczyna,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213022,Krośnice,3,Szkoła podstawowa,100,inny,100,inna przyczyna,8,obiekty sportowe,9,zawody sportowe,2
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,3
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,8
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,9,zawody sportowe,2
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,5,plac zabaw,8,wycieczki edukacyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,14,Liceum ogólnokształcące,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,213,milicki,213033,Milicz,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",100,inne zajęcia,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,7
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,16
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,1,wychowanie fizyczne,8
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,4,boisko,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,5,plac zabaw,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,10,miejsca zgromadzeń publicznych,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,12,"ulica, droga",6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,100,inne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,16,działania umyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,5
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,16,Technikum,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,4
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,16,Technikum,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,16,Technikum,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214011,Oleśnica,93,Branżowa szkoła I stopnia,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,9,zawody sportowe,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214023,Bierutów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214023,Bierutów,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,214,oleśnicki,214023,Bierutów,3,Szkoła podstawowa,100,inny,100,inna przyczyna,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214032,Dobroszyce,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214032,Dobroszyce,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214032,Dobroszyce,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,9
+2,DOLNOŚLĄSKIE,214,oleśnicki,214053,Międzybórz,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,17,"pobicie, umyślne uderzenie",2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,100,inna przyczyna,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,100,inna przyczyna,3,sala gimnastyczna,1,wychowanie fizyczne,2
+2,DOLNOŚLĄSKIE,214,oleśnicki,214062,Oleśnica,3,Szkoła podstawowa,100,inny,100,inna przyczyna,100,inne,5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214073,Syców,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,1,"sala lekcyjna, pracownia szkolna",5,inne zajęcia edukacyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,3
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,15,nieuwaga ucznia,8,obiekty sportowe,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,18,działania nieumyślne innej osoby,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,19,uderzenie nieumyślne,3,sala gimnastyczna,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,214,oleśnicki,214083,Twardogóra,3,Szkoła podstawowa,100,inny,100,inna przyczyna,4,boisko,6,przerwy międzylekcyjne,1
+2,DOLNOŚLĄSKIE,215,oławski,215011,Oława,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,2,ciągi komunikacyjne,6,przerwy międzylekcyjne,2
+2,DOLNOŚLĄSKIE,215,oławski,215011,Oława,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,3,sala gimnastyczna,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,215,oławski,215011,Oława,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,4,boisko,1,wychowanie fizyczne,1
+2,DOLNOŚLĄSKIE,215,oławski,215011,Oława,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,4,boisko,100,inne zajęcia,1
+2,DOLNOŚLĄSKIE,215,oławski,215011,Oława,3,Szkoła podstawowa,100,inny,14,działania nieumyślne ucznia,5,plac zabaw,100,inne zajęcia,1

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Wyszukiwarka – SafeSchool PL{% endblock %}
+{% block content %}
+<h1>Wyszukiwarka rekordów</h1>
+<form class="filters" method="get" action="/search">
+  <select name="year"><option value="">Rok szkolny</option>{% for v in filter_options.year %}<option value="{{v}}" {% if filters.year==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="wojewodztwo"><option value="">Województwo</option>{% for v in filter_options.wojewodztwo %}<option value="{{v}}" {% if filters.wojewodztwo==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="typ_podmiotu"><option value="">Typ placówki</option>{% for v in filter_options.typ_podmiotu %}<option value="{{v}}" {% if filters.typ_podmiotu==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="przyczyna"><option value="">Przyczyna</option>{% for v in filter_options.przyczyna %}<option value="{{v}}" {% if filters.przyczyna==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="miejsce"><option value="">Miejsce</option>{% for v in filter_options.miejsce %}<option value="{{v}}" {% if filters.miejsce==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="zajecia"><option value="">Zajęcia</option>{% for v in filter_options.zajecia %}<option value="{{v}}" {% if filters.zajecia==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <button type="submit">Szukaj</button>
+</form>
+<p class="meta">Znaleziono <strong>{{ total }}</strong> rekordów. Wyświetlanie {{ offset+1 }}–{{ [offset+limit, total]|min }}.</p>
+<div class="table-wrap">
+<table>
+  <thead><tr><th>Rok</th><th>Województwo</th><th>Powiat</th><th>Gmina</th><th>Typ placówki</th><th>Rodzaj</th><th>Przyczyna</th><th>Miejsce</th><th>Zajęcia</th><th>Liczba</th></tr></thead>
+  <tbody>
+  {% for r in rows %}
+    <tr>
+      <td>{{ r.year }}</td><td>{{ r.wojewodztwo }}</td><td>{{ r.powiat }}</td><td>{{ r.gmina }}</td>
+      <td>{{ r.typ_podmiotu }}</td><td>{{ r.rodzaj_wypadku }}</td><td>{{ r.przyczyna }}</td>
+      <td>{{ r.miejsce }}</td><td>{{ r.zajecia }}</td><td><strong>{{ r.liczba }}</strong></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+<div class="pager">
+  {% if offset > 0 %}<a href="?{{ base_qs }}&offset={{ [offset-limit,0]|max }}">← Poprzednia</a>{% endif %}
+  {% if offset + limit < total %}<a href="?{{ base_qs }}&offset={{ offset+limit }}">Następna →</a>{% endif %}
+</div>
+{% endblock %}

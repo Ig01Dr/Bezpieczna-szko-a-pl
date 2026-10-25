@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Dashboard – SafeSchool PL{% endblock %}
+{% block content %}
+<h1>Bezpieczeństwo w polskich szkołach</h1>
+<p class="lead">Analiza wypadków w przedszkolach, szkołach i placówkach oświatowych w Polsce (dane MEiN via dane.gov.pl). Filtruj, porównuj, wyciągaj wnioski.</p>
+
+<section class="kpis">
+  <div class="kpi"><span class="kpi-val">{{ totals.total_accidents|default(0) }}</span><span class="kpi-lbl">wypadków łącznie</span></div>
+  <div class="kpi"><span class="kpi-val">{{ totals.records|default(0) }}</span><span class="kpi-lbl">rekordów</span></div>
+  <div class="kpi"><span class="kpi-val">{{ totals.years|length }}</span><span class="kpi-lbl">lat danych</span></div>
+  <div class="kpi"><span class="kpi-val">{{ totals.years[0] if totals.years else '—' }}–{{ totals.years[-1] if totals.years else '—' }}</span><span class="kpi-lbl">zakres</span></div>
+</section>
+
+<form class="filters" method="get" action="/">
+  <select name="year"><option value="">Rok szkolny</option>{% for v in filter_options.year %}<option value="{{v}}" {% if filters.year==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="wojewodztwo"><option value="">Województwo</option>{% for v in filter_options.wojewodztwo %}<option value="{{v}}" {% if filters.wojewodztwo==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="typ_podmiotu"><option value="">Typ placówki</option>{% for v in filter_options.typ_podmiotu %}<option value="{{v}}" {% if filters.typ_podmiotu==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="przyczyna"><option value="">Przyczyna</option>{% for v in filter_options.przyczyna %}<option value="{{v}}" {% if filters.przyczyna==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="miejsce"><option value="">Miejsce</option>{% for v in filter_options.miejsce %}<option value="{{v}}" {% if filters.miejsce==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <select name="zajecia"><option value="">Zajęcia</option>{% for v in filter_options.zajecia %}<option value="{{v}}" {% if filters.zajecia==v %}selected{% endif %}>{{v}}</option>{% endfor %}</select>
+  <button type="submit">Filtruj</button>
+  <a class="btn-ghost" href="/">Wyczyść</a>
+</form>
+
+<section class="grid2">
+  <div class="card"><h2>Trend roczny</h2><canvas id="trendChart"></canvas></div>
+  <div class="card"><h2>Województwa (top)</h2><canvas id="wojChart"></canvas></div>
+</section>
+<section class="grid2">
+  <div class="card"><h2>Typ placówki</h2><canvas id="typChart"></canvas></div>
+  <div class="card"><h2>Przyczyny (top)</h2><canvas id="przyczynaChart"></canvas></div>
+</section>
+<section class="grid2">
+  <div class="card"><h2>Miejsca wypadków (top)</h2><canvas id="miejsceChart"></canvas></div>
+  <div class="card"><h2>Szybkie linki</h2>
+    <ul class="links">
+      <li><a href="/search">Przeglądaj wszystkie rekordy →</a></li>
+      <li><a href="/api/aggregate?by=powiat&limit=30">Top powiaty (JSON)</a></li>
+      <li><a href="/api/trend">Trend (JSON)</a></li>
+    </ul>
+  </div>
+</section>
+
+<script>
+const trend = {{ trend|tojson }};
+const woj = {{ by_woj|tojson }};
+const typ = {{ by_typ|tojson }};
+const prz = {{ by_przyczyna|tojson }};
+const mie = {{ by_miejsce|tojson }};
+
+function barChart(id, data, color) {
+  new Chart(document.getElementById(id), {
+    type: 'bar',
+    data: { labels: data.map(d=>d.label), datasets: [{ data: data.map(d=>d.value), backgroundColor: color, borderRadius: 6 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+  });
+}
+function lineChart(id, data) {
+  new Chart(document.getElementById(id), {
+    type: 'line',
+    data: { labels: data.map(d=>d.label), datasets: [{ data: data.map(d=>d.value), borderColor: '#2563eb', backgroundColor: 'rgba(37,99,235,.15)', fill: true, tension: .3 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+  });
+}
+lineChart('trendChart', trend);
+barChart('wojChart', woj, '#7c3aed');
+barChart('typChart', typ, '#059669');
+barChart('przyczynaChart', prz, '#dc2626');
+barChart('miejsceChart', mie, '#d97706');
+</script>
+{% endblock %}

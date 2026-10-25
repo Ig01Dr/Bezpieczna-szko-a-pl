@@ -1,0 +1,28 @@
+# Data
+data/
+*.db
+*.csv
+*.xlsx
+*.jsonld
+!tests/sample.csv
+!tests/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests artifacts
+.pytest_cache/
+.coverage
+htmlcov/
